@@ -1,0 +1,19 @@
+Algoritmo "Casado"
+var
+nome,sexo,estado civil, tempo: caracter
+inicio 
+Digite o nome
+Leia (nome)
+Escreva ("Digite seu nome")
+Digite o estado civil 
+Leia (estado civil)
+Escreva ("qual o estado civil")
+Digite o sexo
+Leia (sexo)
+Escreva (" Informe seu sexo")
+se estado civil (Casado) 
+Digite o tempo de "casado"
+Leia (tempo)
+Escreva ("Quanto anos de casado") 
+fim-se
+fimalgoritmo
