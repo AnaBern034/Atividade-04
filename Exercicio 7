@@ -5,3 +5,11 @@ inicio
 digite 8 valores 
 leia (x)
 se x % 2 == 0
+Digite par 
+escreva ("seu numero",x,"é par")
+senao
+Exiba 5 valores
+leia (x)
+Escreva (" seu numero",x,"é impar")
+Fim-se 
+Fimalgoritmo 
