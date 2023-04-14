@@ -1,0 +1,14 @@
+Algoritmo "
+Var 
+x,y,z: inteiro 
+Digite o valor 
+Leia (x)
+Leia (y)
+Se o x==y
+soma x+y= z
+Escreva ("o resultado é" ,Z,)
+senao 
+Multiplicar x*y=z
+Escreva (" o resultado é",Z,)
+Fim-se
+Fimalgoritmo 
