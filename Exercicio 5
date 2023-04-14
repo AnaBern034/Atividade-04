@@ -1,0 +1,14 @@
+Algoritimo "Negativo e Positivo"
+Var 
+x:inteiro
+dobro :caracter
+inicio
+Digite um numero qualquer 
+leia (x)
+se dobro = x*2
+digite o resultado positivo 
+senao 
+dobro = x*3
+Digite o resultado negativo
+Fim-se
+Fimalgoritmo 
