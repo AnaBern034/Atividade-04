@@ -1,0 +1,8 @@
+Algoritmo "comparação"
+var
+x,y,z : inteiro
+Digite um numero inteiro : 
+Se x+y< z 
+Exibir numero na tela
+senao
+nao exibir 
