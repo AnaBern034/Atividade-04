@@ -1,0 +1,14 @@
+Algoritmo " v ou f"
+var 
+num1:logico
+num2:logico
+inicio
+digite os valores
+leia (num1)
+leia (num2)
+se num1==num2
+digite verdadeiro
+senao 
+digite falso 
+fim-se
+fimalgoritmo
