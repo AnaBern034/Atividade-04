@@ -1,0 +1,15 @@
+Algoritmo "decrescente"
+var 
+x,y,z:inteiro 
+inicio
+Digite três valores
+leia (x)
+leia (y)
+leia (z)
+se x > y entao
+troque x e y 
+se y > z entao
+troque y e z
+fim-se
+escreva ("a ordem decrescente é " ,x,y,z)
+fimalgoritmo 
