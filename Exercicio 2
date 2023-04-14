@@ -1,6 +1,7 @@
 Algoritmo "Casado"
 var
-nome,sexo,estado civil, tempo: caracter
+nome,sexo,estado civil: caracter
+tempo:inteiro
 inicio 
 Digite o nome
 Leia (nome)
@@ -15,5 +16,7 @@ se estado civil (Casado)
 Digite o tempo de "casado"
 Leia (tempo)
 Escreva ("Quanto anos de casado") 
+Senao
+Passar para o proximo 
 fim-se
 fimalgoritmo
