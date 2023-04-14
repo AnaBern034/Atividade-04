@@ -1,0 +1,12 @@
+Algoritmo "Impar ou Par"
+Var
+x:inteiro
+inicio 
+Digite um numero 
+Leia (x)
+Se o ( x % 2 == 0 )
+Escreva "numero par"
+senao 
+Escreva "numero impar"
+Fim-se
+Fimalgoritmo 
