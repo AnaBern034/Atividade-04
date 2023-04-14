@@ -1,0 +1,7 @@
+Algoritmo "
+var 
+x : inteiro 
+inicio 
+digite 8 valores 
+leia (x)
+se x % 2 == 0
